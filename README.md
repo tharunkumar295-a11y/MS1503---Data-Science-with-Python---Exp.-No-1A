@@ -62,8 +62,11 @@ else:
     print("====================================
 except ValueError:
     print("Error: Please enter a valid numeric value for salary.")
+
 ## Output
+
 <img width="462" height="198" alt="image" src="https://github.com/user-attachments/assets/054c2dac-15fa-48ac-a14e-c128a7c06600" />
+
 ## ✅ Result
 
 The program successfully accepts and validates employee details, calculates allowances and deductions, and displays a well-formatted salary report.
